@@ -37,3 +37,5 @@ Informatics Engineering graduate with experience designing decision support syst
 
 - B.S. in Informatics Engineering, Pignatelli Triputra University (2022–2026)
 - Computer Engineering and Networking, SMKS Batik 1 Surakarta (2015–2018)
+
+---
