@@ -5,7 +5,7 @@ Informatics Engineering graduate with experience designing decision support syst
 - 🔭 Currently working on **DISKOMINFO SP Kab. Tuban Internship Portal** (High-Fidelity / Functional Prototype)
 - 🌱 Continuously deepening my knowledge in **AI** and **Data Science**
 - 💬 Ask me about Laravel, Flask, or networking (Mikrotik, Cisco)
-- 📫 Reach me at: liyundzira.h@gmail.com
+- 📫 Reach me at: Liyundzira.h@gmail.com
 
 ---
 
