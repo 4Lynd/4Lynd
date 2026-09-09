@@ -28,7 +28,8 @@ Informatics Engineering graduate with experience designing decision support syst
 ### 📌 Project
 
 - **DISKOMINFO SP Kab. Tuban Internship Portal** — High-Fidelity / Functional Prototype
-- **Noto-Duit** — Personal finance management system (website & mobile)
+- **Noto-Duit** — Personal finance Track Record - by: Gdrive with Bot Telegram
+- **Mankepri** — Personal finance management system (website & mobile)
 - **Mlinjo Bersih Waste Bank System** — Website
 
 ---
