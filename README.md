@@ -5,7 +5,7 @@ Informatics Engineering graduate with experience designing decision support syst
 - 🔭 Currently working on **DISKOMINFO SP Kab. Tuban Internship Portal** (High-Fidelity / Functional Prototype)
 - 🌱 Continuously deepening my knowledge in **AI** and **Data Science**
 - 💬 Ask me about Laravel, Flask, or networking (Mikrotik, Cisco)
-- 📫 Reach me at: Liyundzira.h@gmail.com
+- 📫 Reach me at: liyundzira.h@gmail.com
 
 ---
 
@@ -25,18 +25,16 @@ Informatics Engineering graduate with experience designing decision support syst
 
 ---
 
-### 📌 Project
+### 📌 Projects
 
 - **DISKOMINFO SP Kab. Tuban Internship Portal** — High-Fidelity / Functional Prototype
-- **Noto-Duit** — Personal finance Track Record - by: Gdrive with Bot Telegram
-- **Mankepri** — Personal finance management system (website & mobile)
+- **[Noto-Duit](https://github.com/4Lynd/Noto-Duit)** — Personal finance tracker with Google Drive & Telegram Bot integration
+- **Mankepri** — Personal finance management system (website & mobile) *(repo coming soon)*
 - **Mlinjo Bersih Waste Bank System** — Website
 
 ---
 
-### 🎓 Pendidikan
+### 🎓 Education
 
 - B.S. in Informatics Engineering, Pignatelli Triputra University (2022–2026)
 - Computer Engineering and Networking, SMKS Batik 1 Surakarta (2015–2018)
-
----
